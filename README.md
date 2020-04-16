@@ -1,7 +1,7 @@
 <h1>SPAデモアプリ</h1>
 Vue.js + Vuetifyデモアプリです。
 
-<h1>実行コマンド<h1>
+<h2>実行コマンド</h2>
 npm run serve
   
 <h2>画面イメージ</h2>
