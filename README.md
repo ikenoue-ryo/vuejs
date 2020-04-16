@@ -1,5 +1,5 @@
 <h1>SPAデモアプリ</h1>
-Vue.js + Vuetigyデモアプリです。
+Vue.js + Vuetifyデモアプリです。
 
 <h2>実行コマンド<h2>
 npm run serve
